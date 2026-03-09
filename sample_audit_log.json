@@ -1,0 +1,73 @@
+{
+  "audit_session": "2026-03-09-SR9-QUANTUM",
+  "master_certificate": "0e8fcef54afd71074a729cbe455c9db734ded7fb4b5a385ebf2a516813258ba9",
+  "total_consensus_shifts": 109,
+  "protocol": "ADI-SR9-L5-16-QUANTUM",
+  "audit_records": [
+    {
+      "record_id": 0,
+      "providers": {
+        "Platts": 28.5,
+        "Bloomberg": 28.7,
+        "Refinitiv": 28.4
+      },
+      "consensus_truth": 28.5333,
+      "status": "QUANTUM CONSENSUS VERIFIED",
+      "nodes_active": 16,
+      "gates_cleared": 160,
+      "latency": "0.0s"
+    },
+    {
+      "record_id": 1,
+      "providers": {
+        "Platts": 142.0,
+        "Bloomberg": 142.2,
+        "Refinitiv": 141.9
+      },
+      "consensus_truth": 142.0333,
+      "status": "QUANTUM CONSENSUS VERIFIED",
+      "nodes_active": 16,
+      "gates_cleared": 160,
+      "latency": "0.0s"
+    },
+    {
+      "record_id": 2,
+      "providers": {
+        "Platts": 0.0,
+        "Bloomberg": 0.1,
+        "Refinitiv": 0.0
+      },
+      "consensus_truth": 0.0333,
+      "status": "QUANTUM CONSENSUS VERIFIED",
+      "nodes_active": 16,
+      "gates_cleared": 160,
+      "latency": "0.0s"
+    },
+    {
+      "record_id": 3,
+      "providers": {
+        "Platts": 50.1,
+        "Bloomberg": 50.0,
+        "Refinitiv": 50.2
+      },
+      "consensus_truth": 50.1,
+      "status": "QUANTUM CONSENSUS VERIFIED",
+      "nodes_active": 16,
+      "gates_cleared": 160,
+      "latency": "0.0s"
+    },
+    {
+      "record_id": 4,
+      "providers": {
+        "Platts": 10.2,
+        "Bloomberg": 10.3,
+        "Refinitiv": 10.1
+      },
+      "consensus_truth": 10.2,
+      "status": "QUANTUM CONSENSUS VERIFIED",
+      "nodes_active": 16,
+      "gates_cleared": 160,
+      "latency": "0.0s"
+    }
+  ]
+}
